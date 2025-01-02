@@ -222,4 +222,4 @@ As the degree of cluster dispersion increases, the performance of each tool is a
 ### Citation
 <p>If you use the data or methodologies from this repository in your research, please cite our work as follows:</p>
 
-<p><i>Thompson, G. and Nelson, T., 2024. Automated cell annotation in scRNA-seq data using unique marker gene sets. BioRxiv. Cold Spring Harbor Laboratory. DOI: https://doi.org/10.1101/2024.05.24.595477</i></p>
+<p><i>Truong, L., Truong, T. and Nguyen, H., 2024. Automated cell annotation in scRNA-seq data using unique marker gene sets. BioRxiv. Cold Spring Harbor Laboratory. DOI: https://doi.org/10.1101/2024.05.24.595477</i></p>
